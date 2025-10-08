@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-**AI Researcher · NLP Engineer**  
-- 📍 Hangzhou, China  
+**NLP Engineer · AI Researcher**  
+- 🌱 I am interested in Text-to-SQL and Agentic RL.
+- 🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao, and my bachelor's degree from Zhejiang University of Technology.
 - 📧 wangpf@zju.edu.cn  
 - 🔗 [Google Scholar](https://scholar.google.com.hk/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
-- 🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao, and my bachelor's degree from Zhejiang University of Technology.
 ---
 
 ## 📰 News

@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi there, I’m Pengfei Wang
 
-<!--
-**Peng-fei-Wang/Peng-fei-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Researcher · NLP Engineer**  
+📍 Hangzhou, China  
+📧 wangpf@zju.edu.cn  
+🔗 [Google Scholar](https://scholar.google.com.hk/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
+🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao, and my bachelor's degree from Zhejiang University of Technology.
+---
 
-Here are some ideas to get you started:
+## 📰 News
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2025.09: 🏆 We have achieved **#1 Rank** on the official [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!  
+
+---
+
+## 💼 Work Experience
+
+| Period    | Position & Company                               
+| --------- | ------------------------------------------------ 
+| 2024.04–now  | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group        
+| 2023.05–2023.08 | **Summer Intern** @ AI-Lab-NLP, ByteDance              
+
+---
+
+## 📚 Selected Research
+
+- **Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling**  
+  **Pengfei Wang**, Baolin Sun, Xuemei Dong, Yaxun Dai, Hongwei Yuan, Mengdie Chu, Yingqi Gao, Xiang Qi, Peng Zhang, Ying Yan
+  *Technical Report* | [paper](https://arxiv.org/abs/2509.24403) | [code](https://github.com/antgroup/Agentar-Scale-SQL)  
+  
+- **PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching**  
+  **Pengfei Wang**, Xiaocan Zeng, Lu Chen, Fan Ye, Yuren Mao, Junhao Zhu, Yunjun Gao
+  *VLDB 2023* | [paper](https://www.vldb.org/pvldb/vol16/p369-gao.pdf) | [code](https://github.com/ZJU-DAILY/PromptEM)
+
+- **Towards Explainable Table Interpretation Using Multi-view Explanations**  
+  Yunjun Gao, **Pengfei Wang**, Xiaocan Zeng, Lu Chen, Yuren Mao, Ziheng Wei, Miao Li
+  *ICDE 2023* | [paper](https://doi.org/10.1109/ICDE55515.2023.00094) | [code](https://github.com/ZJU-DAILY/ExplainTI)
+
+- **CollaborEM: A Self-supervised Entity Matching Framework Using Multi-features Collaboration**  
+  Congcong Ge, **Pengfei Wang**, Lu Chen, Xiaoze Liu, Baihua Zheng, Yunjun Gao
+  *TKDE* | [paper](https://ieeexplore.ieee.org/abstract/document/9647870) | [code](https://github.com/ZJU-DAILY/CollaborEM) 
+
+- **MultiEM: Efficient and Effective Unsupervised Multi-Table Entity Matching**  
+  Xiaocan Zeng, **Pengfei Wang**, Yuren Mao, Lu Chen, Xiaoze Liu, Yunjun Gao
+  *ICDE 2024* | [paper](https://doi.org/10.1109/ICDE60146.2024.00264) | [code](https://github.com/ZJU-DAILY/MultiEM) 
+
+- **ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities**  
+  Yunjun Gao, Xiaoze Liu, Junyang Wu, Tianyi Li, **Pengfei Wang**, Lu Chen
+  *KDD 2022* | [paper](https://dl.acm.org/doi/10.1145/3534678.3539331)
+
+- **UniView: A Unified Autonomous Materialized View Management System for Various Databases**  
+  Zhenrong Xu, **Pengfei Wang**, Guoze Xue, Qitong Yan, Shenghao Gong, Yelan Jiang, Yuren Mao, Yunjun Gao, Shu Shen, Wei Zhang, Dan Luo, Lu Chen
+  *VLDB demo 2024* | [paper](https://www.vldb.org/pvldb/vol17/p4353-chen.pdf) 
+
+- **DESIRE: An Efficient Dynamic Cluster-based Forest Indexing for Similarity Search in Multi-Metric Spaces**  
+  Yifan Zhu, Lu Chen, Yunjun Gao, Baihua Zheng, **Pengfei Wang**
+  *VLDB 2022* | [paper](https://www.vldb.org/pvldb/vol15/p2121-gao.pdf) 
+
+- **Question Calibration and Multi-Hop Modeling for Temporal Question Answering**  
+  Chao Xue, Di Liang, **Pengfei Wang**, Jing Zhang
+  *AAAI 2024* | [paper](https://doi.org/10.1609/aaai.v38i17.29903) 
+

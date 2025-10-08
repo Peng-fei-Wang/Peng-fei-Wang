@@ -6,12 +6,12 @@
 - 🌱 I am interested in Text-to-SQL and Agentic RL.
 - 🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao, and my bachelor's degree from Zhejiang University of Technology.
 - 📧 wangpf@zju.edu.cn  
-- 🔗 [Google Scholar](https://scholar.google.com.hk/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
+- 🔗 [Google Scholar](https://scholar.google.com/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
 ---
 
 ## 📰 News
 
-- 2025.09: 🏆 We have achieved **#1 Rank** on the official [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!  
+- 2025.09: 🏆 We have achieved **#1 Rank** on the challenging Text-to-SQL leaderboard [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!  
 
 ---
 

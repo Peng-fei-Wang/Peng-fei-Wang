@@ -20,7 +20,7 @@
 | Period    | Position & Company                               
 | --------- | ------------------------------------------------ 
 | 2024.04–now  | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group        
-| 2023.05–2023.08 | **Summer Intern** @ AI-Lab-NLP, ByteDance              
+| 2023.05–2023.08 | **Summer Intern** @ Seed (formerly AI-Lab-NLP), ByteDance              
 
 ---
 

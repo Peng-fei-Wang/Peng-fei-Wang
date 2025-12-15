@@ -20,7 +20,7 @@
 | Period    | Position & Company                               
 | --------- | ------------------------------------------------ 
 | 2024.04–now  | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group        
-| 2023.05–2023.08 | **Summer Intern** @ Seed (formerly AI-Lab-NLP), ByteDance              
+| 2023.05–2023.08 | **Summer Algorithm Intern** @ Seed (formerly AI-Lab-NLP), ByteDance              
 
 ---
 
@@ -28,7 +28,8 @@
 
 - **Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling**  
   **Pengfei Wang**, Baolin Sun, Xuemei Dong, Yaxun Dai, Hongwei Yuan, Mengdie Chu, Yingqi Gao, Xiang Qi, Peng Zhang, Ying Yan  
-  *Technical Report* | [Paper](https://arxiv.org/abs/2509.24403) | [Code](https://github.com/antgroup/Agentar-Scale-SQL)  
+  *Technical Report* | [Paper](https://arxiv.org/abs/2509.24403) | [Code](https://github.com/antgroup/Agentar-Scale-SQL) [![GitHub stars](https://img.shields.io/github/stars/antgroup/Agentar-Scale-SQL.svg?style=flat&color=brightgreen)](https://github.com/antgroup/Agentar-Scale-SQL)
+
   
 - **PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching**  
   **Pengfei Wang**, Xiaocan Zeng, Lu Chen, Fan Ye, Yuren Mao, Junhao Zhu, *Yunjun Gao*  

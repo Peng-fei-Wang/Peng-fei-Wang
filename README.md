@@ -11,7 +11,7 @@
 
 ## 📰 News
 
-- 2026.07: ✨ I joined Alibaba International. I’m deeply grateful for my rewarding journey at Ant Group and for everyone I had the privilege of working with during my time there. Excited for this new chapter!
+- 2026.07: ✨ I joined the [Accio](https://www.accio.com/) team at Alibaba Group. I’m deeply grateful for my rewarding journey at Ant Group and for everyone I had the privilege of working with during my time there. Excited for this new chapter!
 - 2025.09: 🏆 We have achieved **#1 Rank** on the challenging Text-to-SQL leaderboard [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!  
 
 ---

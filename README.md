@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 **NLP Engineer · AI Researcher**  
-- 🌱 Currently, I focus on Text-to-SQL, Agentic RL, and AI Agents.
+- 🌱 Currently, I focus on AI Agents and Agentic RL.
 - 🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao.
 - 📧 wangpf@zju.edu.cn  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
@@ -11,6 +11,7 @@
 
 ## 📰 News
 
+- 2026.07: ✨ I joined **Alibaba International**. I am deeply grateful for my rewarding journey at Ant Group and for all the wonderful colleagues I had the privilege of working with. Excited for this new chapter!
 - 2025.09: 🏆 We have achieved **#1 Rank** on the challenging Text-to-SQL leaderboard [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!  
 
 ---
@@ -19,7 +20,8 @@
 
 | Period    | Position & Company                               
 | --------- | ------------------------------------------------ 
-| 2024.04–now  | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group        
+| 2026.07–now | **Algorithm Expert** @ Accio, Alibaba Group |
+| 2024.04–2026.07 | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group |      
 | 2023.05–2023.08 | **Summer Algorithm Intern** @ Seed (formerly AI-Lab-NLP), ByteDance              
 
 ---

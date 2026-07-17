@@ -18,11 +18,11 @@
 
 ## 💼 Work Experience
 
-| Period    | Position & Company                               
-| --------- | ------------------------------------------------ 
-| 2026.07–now | **Algorithm Expert** @ Accio, Alibaba Group |
-| 2024.04–2026.07 | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group |      
-| 2023.05–2023.08 | **Summer Algorithm Intern** @ Seed (formerly AI-Lab-NLP), ByteDance              
+| Period | Position & Company |
+|---|---|
+| 2026.07–Present | **Algorithm Expert** @ Accio, Alibaba Group |
+| 2024.04–2026.07 | **Senior Algorithm Engineer** @ Ant Digital Technologies, Ant Group |
+| 2023.05–2023.08 | **Summer Algorithm Intern** @ Seed (formerly AI Lab–NLP), ByteDance |           
 
 ---
 

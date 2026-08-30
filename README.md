@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 **NLP Engineer · AI Researcher**  
-- 🌱 Currently, I focus on AI Agents and Agentic RL.
+- 🌱 Currently, I focus on AI Agents and Post-Training.
 - 🎓 I received my master's degree from Zhejiang University under the supervision of Prof. Yunjun Gao.
 - 📧 wangpf@zju.edu.cn  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=CWbCgfMAAAAJ&hl=zh-TW)
@@ -32,6 +32,9 @@
   **Pengfei Wang**, Baolin Sun, Xuemei Dong, Yaxun Dai, Hongwei Yuan, Mengdie Chu, Yingqi Gao, Xiang Qi, Peng Zhang, Ying Yan  
   *Technical Report* | [Paper](https://arxiv.org/abs/2509.24403) | [Code](https://github.com/antgroup/Agentar-Scale-SQL) [![GitHub stars](https://img.shields.io/github/stars/antgroup/Agentar-Scale-SQL.svg?style=flat&color=brightgreen)](https://github.com/antgroup/Agentar-Scale-SQL)
 
+- **Every Step Counts: Step-Level Credit Assignment for Tool-Integrated Text-to-SQL**  
+  Yaxun Dai, Baolin Sun, Junying Wang, **Pengfei Wang**, Yingqi Gao, Xuemei Dong, Mengdie Chu, Xiang Qi, Pingfu Chao<br>
+  *EMNLP 2026 Findings* | [Paper](https://arxiv.org/abs/2605.04719)
   
 - **PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching**  
   **Pengfei Wang**, Xiaocan Zeng, Lu Chen, Fan Ye, Yuren Mao, Junhao Zhu, *Yunjun Gao*  
